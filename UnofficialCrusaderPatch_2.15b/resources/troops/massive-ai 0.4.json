@@ -144,15 +144,15 @@
     },
     "normal": {
       "Units": [ "ArabSwordsman", "FireThrower", "Slinger", "ArabArcher" ],
-      "Counts": [ 12, 8, 20, 20 ]
+      "Counts": [ 12, 8, 75, 75 ]
     },
     "crusader": {
       "Units": [ "ArabSwordsman", "FireThrower", "Slinger", "ArabArcher" ],
-      "Counts": [ 60, 16, 40, 40 ]
+      "Counts": [ 60, 16, 150, 150 ]
     },
     "deathmatch": {
       "Units": [ "ArabSwordsman", "FireThrower", "Slinger", "ArabArcher" ],
-      "Counts": [ 12, 8, 20, 20 ]
+      "Counts": [ 12, 8, 75, 75 ]
     }
   },
   "8": {
