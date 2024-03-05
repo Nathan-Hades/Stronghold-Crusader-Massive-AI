@@ -2,7 +2,7 @@
 # Stronghold Crusader Massive AI
 
 ## English
-This mod adds the Massive AI for Stronghold Crusader Extreme.
+This mod adds the Massive AI to Stronghold Crusader Extreme.
 It also fixes some translation errors in the German text.
 
 The folder "UnofficialCrusaderPatch_2.15b" must be placed in the folder of the UnofficialCrusaderPatch version 2.15b.  
