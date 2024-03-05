@@ -1,3 +1,4 @@
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Nathan-Hades/Stronghold-Crusader-Massive-AI?sort=date&color=darkred&label=latest%20release)](https://github.com/Nathan-Hades/Stronghold-Crusader-Massive-AI/releases)
 # Stronghold Crusader Massive AI
 
 ## English
