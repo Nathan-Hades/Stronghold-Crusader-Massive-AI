@@ -1,0 +1,19 @@
+{
+  "name": "Massive-AI 12 Emir",
+  "description": "This is the Massive-AI emir v1.3.0",
+  "author": "Nathan Hades",
+  "link": "",
+  "version": "1.3.0",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": true,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}
