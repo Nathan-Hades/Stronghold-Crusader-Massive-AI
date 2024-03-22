@@ -5,7 +5,8 @@
 This mod adds the Massive AI to Stronghold Crusader Extreme.
 It also fixes some translation errors in the German text.
 
-The folder "UnofficialCrusaderPatch_2.15b" must be placed in the folder of the UnofficialCrusaderPatch version 2.15b.  
+For UCP 3, the attached ZIP file must simply be added via the plus button under Content.
+For UCP 3.15b, the folder "UnofficialCrusaderPatch_2.15b" must be placed in the folder of the UnofficialCrusaderPatch Version 2.15b.  
 [Download UCP](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases/ "Download UCP")
 
 The folder "Stronghold Crusader Extreme" must be placed in the game folder of Stronghold Crusader Extreme HD.  
@@ -16,7 +17,8 @@ Attention: If you are not playing in German, you should not copy the file "cr.te
 Diese Mod fügt die Massive AI für Stronghold Crusader Extreme hinzu.
 Außerdem behebt es einige Übersetzungsfehler im deutschen Text.
 
-Der Ordner "UnofficialCrusaderPatch_2.15b" muss in den Ordner des UnofficialCrusaderPatch Version 2.15b.  
+Für UCP 3 muss die angehängte ZIP Datei einfach über das Plus unter Content hinzugefügt werden.
+Für UCP 3.15b muss der Ordner "UnofficialCrusaderPatch_2.15b" in den Ordner des UnofficialCrusaderPatch Version 2.15b.  
 [Download UCP](https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases/ "Download UCP")
 
 Der Ordner "Stronghold Crusader Extreme" muss in den Spieleordner von Stronghold Crusader Extreme HD.  
